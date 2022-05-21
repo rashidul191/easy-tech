@@ -1,9 +1,13 @@
 import "./App.css";
+import Header from "./components/Header/Header";
+import QuestionAns from "./components/QuestionAns/QuestionAns";
+import Shop from "./components/Shop/Shop";
 
 function App() {
   return <div>
-    <h1>Easy-Tech</h1>
-    <p>My Online shop yaaaaaaaaa!</p>
+    <Header></Header>
+    <Shop></Shop>
+    <QuestionAns></QuestionAns>
   </div>;
 }
 
