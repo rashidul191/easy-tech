@@ -3,13 +3,13 @@ import React from "react";
 const Header = () => {
   return (
     <div>
-      <nav class=" navbar navbar-expand-lg navbar-dark bg-dark">
-        <div class="container">
-          <a class="navbar-brand" href="/home">
+      <nav className=" navbar navbar-expand-lg navbar-dark bg-dark">
+        <div className="container">
+          <a className="navbar-brand" href="/home">
             Easy-Tech
           </a>
           <button
-            class="navbar-toggler"
+            className="navbar-toggler"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarNav"
@@ -17,22 +17,22 @@ const Header = () => {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon"></span>
+            <span className="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ms-auto">
-              <li class="nav-item mx-4">
-                <a class="nav-link" href="/home">
+          <div className="collapse navbar-collapse" id="navbarNav">
+            <ul className="navbar-nav ms-auto">
+              <li className="nav-item mx-4">
+                <a className="nav-link" href="/home">
                   Home
                 </a>
               </li>
-              <li class="nav-item mx-4">
-                <a class="nav-link" href="/about">
+              <li className="nav-item mx-4">
+                <a className="nav-link" href="/about">
                   About
                 </a>
               </li>
-              <li class="nav-item mx-4">
-                <a class="nav-link" href="/order">
+              <li className="nav-item mx-4">
+                <a className="nav-link" href="/order">
                   Order
                 </a>
               </li>

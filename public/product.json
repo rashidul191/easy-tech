@@ -3,155 +3,156 @@
     "id": "101ET02",
     "name": "Lenovo Keyboard",
     "price": "699",
-    "img": "../src/images/keyboard-2.jpg"
+    "img": "https://i.postimg.cc/Z5WtMhyR/keyboard-4.jpg"
   },
   {
     "id": "101ET10",
     "name": "Xiaomi Redmi Note 10",
     "price": "19999",
-    "img": "../src/images/phone-1.jpg"
+    "img": "https://cybermexico.mx/wp-content/uploads/2019/07/1563611353376.jpg"
   },
 
   {
     "id": "101ET08",
     "name": "Logitech Mouse",
     "price": "890",
-    "img": "../src/images/mouse-2.jpg"
+    "img": "https://i.postimg.cc/fb3zm9v8/mouse-1.jpg"
   },
   {
     "id": "101ET09",
     "name": "Dell Mouse",
     "price": "1450",
-    "img": "../src/images/mouse-3.jpg"
+    "img": "https://i.postimg.cc/pdg2ZLGR/mouse-3.jpg"
   },
 
   {
     "id": "101ET12",
     "name": "Walton Primo S8 Mini",
     "price": "13999",
-    "img": "../src/images/phone-3.jpg"
+    "img": "https://i.postimg.cc/4NnSJQ42/phone-1.jpg"
   },
   {
     "id": "101ET23",
     "name": "Microsoft Surface Laptop SSD 12.4",
     "price": "77000",
-    "img": "../src/images/laptop-11.jpg"
+    "img": "https://i.postimg.cc/hGQy9DQL/laptop-9.jpg"
   },
+
   {
     "id": "101ET24",
     "name": "Apple MacBook Air 13.3-Inch",
     "price": "105000",
-    "img": "../src/images/laptop-12.jpg"
+    "img": "https://i.postimg.cc/x1hgjwpc/laptop-10.jpg"
   },
   {
     "id": "101ET25",
     "name": "Lenovo IdeaPad Slim 3i Core i3 10th Gen 8GB RAM 15.6",
     "price": "52000",
-    "img": "../src/images/laptop-13.jpg"
+    "img": "https://i.postimg.cc/gjgqCQ6c/laptop-11.jpg"
   },
 
   {
     "id": "101ET13",
     "name": "Dell Inspiron 15 3510 Intel Celeron N4020 15.6 HD Laptop",
     "price": "36000",
-    "img": "../src/images/laptop-1.jpg"
+    "img": "https://i.postimg.cc/VLyYMvSR/laptop-5.jpg"
   },
   {
     "id": "101ET14",
     "name": "HP 15s-du1087TU Intel Celeron N4020 15.6 inch FHD Laptop with Win 10",
     "price": "34500",
-    "img": "../src/images/laptop-2.jpg"
+    "img": "https://i.postimg.cc/x8ZNy2zm/laptop-13.jpg"
   },
   {
     "id": "101ET15",
     "name": "HP 15s-eq1548AU AMD Athlon 3050U 15.6",
     "price": "39500",
-    "img": "../src/images/laptop-3.jpg"
+    "img": "https://i.postimg.cc/x1hgjwpc/laptop-10.jpg"
   },
   {
     "id": "101ET11",
     "name": "Samsung Galaxy S21 FE 5G Full Specifications",
     "price": "69999",
-    "img": "../src/images/phone-2.jpg"
+    "img": "https://i.pcmag.com/imagery/reviews/01pr6hmgqz7A5wX5hSQWqRs-1..v1632764534.jpg"
   },
   {
     "id": "101ET03",
     "name": "New Dell Keyboard 14BD",
     "price": "1100",
-    "img": "../src/images/keyboard-3.jpg"
+    "img": "https://i.postimg.cc/Gt8jGz5X/keyboard-1.jpg"
   },
   {
     "id": "101ET04",
     "name": "Dell 125DS Keyboard",
     "price": "599",
-    "img": "../src/images/keyboard-4.jpg"
+    "img": "https://i.postimg.cc/ZnvpQnZH/keyboard-5.jpg"
   },
   {
     "id": "101ET16",
     "name": "Dell Inspiron 15 3515 Ryzen 3 3250U 15.6 FHD Laptop",
     "price": "46000",
-    "img": "../src/images/laptop-4.jpg"
+    "img": "https://i.postimg.cc/TPKjZtRf/laptop-1.jpg"
   },
   {
     "id": "101ET17",
     "name": "Lenovo IdeaPad Slim 3i Celeron N4020 256GB SSD 15.6",
     "price": "35800",
-    "img": "../src/images/laptop-5.jpg"
+    "img": "https://i.postimg.cc/ZK35Dpk2/laptop-3.png"
   },
 
   {
     "id": "101ET05",
     "name": "Samsung Keyboard",
     "price": "1200",
-    "img": "../src/images/keyboard-5.jpg"
+    "img": "https://i.postimg.cc/SKQZv6PG/keyboard-6.jpg"
   },
   {
     "id": "101ET06",
     "name": "Lenovo S145 Keyboard",
     "price": "800",
-    "img": "../src/images/keyboard-6.jpg"
+    "img": "https://i.postimg.cc/HxV6ppdc/keyboard-2.jpg"
   },
 
   {
     "id": "101ET07",
     "name": "A4 Tech Mouse",
     "price": "650",
-    "img": "../src/images/mouse-1.jpg"
+    "img": "https://i.postimg.cc/fb3zm9v8/mouse-1.jpg"
   },
   {
     "id": "101ET01",
     "name": "HP Keyboard",
     "price": "950",
-    "img": "../src/images/keyboard-1.jpg"
+    "img": "https://i.postimg.cc/bNTkF7fK/keyboard-3.jpg"
   },
   {
     "id": "101ET18",
     "name": "Lenovo V14 Core i3 11th Gen 14",
     "price": "52500",
-    "img": "../src/images/laptop-6.jpg"
+    "img": "https://i.postimg.cc/JnvRp4pR/laptop-4.jpg"
   },
   {
     "id": "101ET19",
     "name": "Asus Vivobook X515KA Celeron N4500 15.6",
     "price": "38500",
-    "img": "../src/images/laptop-7.jpg"
+    "img": "https://i.postimg.cc/7YQnmvkm/laptop-12.jpg"
   },
   {
     "id": "101ET20",
     "name": "Asus Vivobook Go 14 E410MA Celeron N4020 14",
     "price": "43500",
-    "img": "../src/images/laptop-8.jpg"
+    "img": "https://i.postimg.cc/DzYhzwk1/laptop-6.jpg"
   },
   {
     "id": "101ET21",
     "name": "AVITA Essential 14 Celeron N4020 256GB SSD 14",
     "price": "29100",
-    "img": "../src/images/laptop-9.jpg"
+    "img": "https://i.postimg.cc/LXcMzQsX/laptop-7.jpg"
   },
   {
     "id": "101ET22",
     "name": "HP Pavilion 14-ec0234AU Ryzen 5 5500U 14",
     "price": "65000",
-    "img": "../src/images/laptop-10.jpg"
+    "img": "https://i.postimg.cc/qMdTqFYD/laptop-8.jpg"
   }
 ]
