@@ -37,6 +37,7 @@ const Shop = () => {
   // handle Choose Again btn
   const handleChooseAgain = () => {
     setCart([]);
+    setSingleProductName([])
   };
 
   // Buy Now Product btn
