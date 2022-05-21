@@ -24,13 +24,6 @@
     "price": "1450",
     "img": "https://i.postimg.cc/pdg2ZLGR/mouse-3.jpg"
   },
-
-  {
-    "id": "101ET12",
-    "name": "Walton Primo S8 Mini",
-    "price": "13999",
-    "img": "https://i.postimg.cc/4NnSJQ42/phone-1.jpg"
-  },
   {
     "id": "101ET23",
     "name": "Microsoft Surface Laptop SSD 12.4",
@@ -46,20 +39,20 @@
   },
   {
     "id": "101ET25",
-    "name": "Lenovo IdeaPad Slim 3i Core i3 10th Gen 8GB RAM 15.6",
+    "name": "Lenovo IdeaPad Slim 3i Core i3 10th",
     "price": "52000",
     "img": "https://i.postimg.cc/gjgqCQ6c/laptop-11.jpg"
   },
 
   {
     "id": "101ET13",
-    "name": "Dell Inspiron 15 3510 Intel Celeron N4020 15.6 HD Laptop",
+    "name": "Dell Inspiron 15 3510 Intel Celeron",
     "price": "36000",
     "img": "https://i.postimg.cc/VLyYMvSR/laptop-5.jpg"
   },
   {
     "id": "101ET14",
-    "name": "HP 15s-du1087TU Intel Celeron N4020 15.6 inch FHD Laptop with Win 10",
+    "name": "HP 15s-du1087TU Intel Celeron N4020",
     "price": "34500",
     "img": "https://i.postimg.cc/x8ZNy2zm/laptop-13.jpg"
   },
@@ -71,7 +64,7 @@
   },
   {
     "id": "101ET11",
-    "name": "Samsung Galaxy S21 FE 5G Full Specifications",
+    "name": "Samsung Galaxy S21 FE 5G",
     "price": "69999",
     "img": "https://i.pcmag.com/imagery/reviews/01pr6hmgqz7A5wX5hSQWqRs-1..v1632764534.jpg"
   },
@@ -89,13 +82,13 @@
   },
   {
     "id": "101ET16",
-    "name": "Dell Inspiron 15 3515 Ryzen 3 3250U 15.6 FHD Laptop",
+    "name": "Dell Inspiron 15 3515 Ryzen 3",
     "price": "46000",
     "img": "https://i.postimg.cc/TPKjZtRf/laptop-1.jpg"
   },
   {
     "id": "101ET17",
-    "name": "Lenovo IdeaPad Slim 3i Celeron N4020 256GB SSD 15.6",
+    "name": "Lenovo IdeaPad Slim 3i Celero",
     "price": "35800",
     "img": "https://i.postimg.cc/ZK35Dpk2/laptop-3.png"
   },
@@ -133,19 +126,19 @@
   },
   {
     "id": "101ET19",
-    "name": "Asus Vivobook X515KA Celeron N4500 15.6",
+    "name": "Asus Vivobook X515KA Celeron N4500",
     "price": "38500",
     "img": "https://i.postimg.cc/7YQnmvkm/laptop-12.jpg"
   },
   {
     "id": "101ET20",
-    "name": "Asus Vivobook Go 14 E410MA Celeron N4020 14",
+    "name": "Asus Vivobook Go 14 E410MA Celeron",
     "price": "43500",
     "img": "https://i.postimg.cc/DzYhzwk1/laptop-6.jpg"
   },
   {
     "id": "101ET21",
-    "name": "AVITA Essential 14 Celeron N4020 256GB SSD 14",
+    "name": "AVITA Essential 14 Celeron N4020 256GB",
     "price": "29100",
     "img": "https://i.postimg.cc/LXcMzQsX/laptop-7.jpg"
   },

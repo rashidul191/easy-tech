@@ -19,7 +19,7 @@ const Shop = () => {
             <Product product={product} key={product.id}></Product>
           ))}
         </div>
-        <div className=" col col-2 col-md-3 cart-container">
+        <div className="col col-2 col-md-3 cart-container">
             <h2>Order Summary</h2>
         </div>
       </div>
