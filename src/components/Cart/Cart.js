@@ -6,7 +6,7 @@ import "./Cart.css";
 const Cart = (props) => {
   const { name, img } = props.product;
   return (
-    <div className="my-4 d-flex justify-content-between">
+    <div className="cart-items my-4 d-flex justify-content-between">
       <img className="product-img" src={img} alt="" />
       <h6>{name}</h6>
       <button className="btn btn-danger">
